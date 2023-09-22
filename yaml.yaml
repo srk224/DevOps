@@ -1,1 +1,17 @@
+# YAML = YAML AINT MARKUP LANGUAGE
+# DATA FORMAT USED TO EXHCANGE DATA
+# Similiar to XML OR JSON
+# Used to store Informationn about configuration, and not commands
+# Convert and Object into YAML is called Serialization.
+YAML INPUT:
+CITIES:
+  - DELHI
+  - MUMBAI
 
+JSON OUTPUT:
+{
+"CITIES":[
+"delhi",
+"mumbai"
+]
+}
