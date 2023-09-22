@@ -15,3 +15,46 @@ JSON OUTPUT:
 "mumbai"
 ]
 }
+
+# Write a single line in multiple lines
+message: > this will be
+one single
+line
+
+# specify the type
+zero: !!int 0
+positiveNum : !!int 45
+binary: !!int0b1002
+hexa: !!int 0x45
+
+not a number: .nan
+infinite: !!float .inf
+
+surname: !!null Null
+
+#### ADVANCE DATA TYPES
+
+student: !!seq
+- marks
+- name
+- rollNo
+
+# sparse seq: some keys of the sequence will be empty
+
+#pairs: keys may have duplicate values
+pair_example: !!pairs
+ - job : student
+ - job : student
+
+ # dictionary datatype
+ names: !!set
+  ? kunal
+  ? srk
+  ? alak
+
+  people: !!omap
+   - Kunal:
+      name: kan
+      age: 84
+      height : 19823
+
