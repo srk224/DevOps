@@ -7,6 +7,7 @@ YAML INPUT:
 CITIES:
   - DELHI
   - MUMBAI
+  -waterloo
 
 JSON OUTPUT:
 {
