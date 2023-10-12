@@ -17,3 +17,4 @@ Kubernestes Pod: Scheduling Unit
 4) Deploy these pods to container
 5) 
 lpp
+pf
