@@ -16,5 +16,5 @@ Kubernestes Pod: Scheduling Unit
 3) Put every container in its own pod
 4) Deploy these pods to container
 5) 
-lpp
+lppdsadcaas
 pf
