@@ -13,7 +13,7 @@ Kubernestes Pod: Scheduling Unit
 
 1) Create Microservice
 2) Add Microsevice to its spereate container 
-3) Put every container in its own pod
+3) Put every container in idadsts own pod
 4) Deploy these pods to container
 5) 
 lppdsadcaas
