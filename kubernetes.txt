@@ -1,4 +1,4 @@
-- Configuration Management 
+- Configurati
 - Package Manager / Container Manager
 Microservices: All the components ( Fro ntend, Backend Database, Networking components) are deployed in a seperate server. Easy for Scaling and Running and Managing. You can run Microservices in different containers
 How to Manage the communication between all of them?
@@ -8,13 +8,16 @@ Google donated Kubernetes to CNCF.
 
 Terminologies
 Kube CTL : IS the Command Line tool for kubernetes. (Yaml files or through commands)
-Kubernestes Pod: Scheduling Unit 
+Kubernestes Pod: Scheduling Unit
 - Cluster: Control Plane + Nodes (IS A VM)- Control Plane manages the worker Nides (Server).  
 
 1) Create Microservice
 2) Add Microsevice to its spereate container 
 3) Put every container in idadsts own pod
 4) Deploy these pods to container
-5)  xxfc
-lppdsadcaas
-pf
+
+K8's DNS: impy
+Installation:
+1) kubectl
+2) mINIJUBE
+3) KUBEADM
