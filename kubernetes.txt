@@ -15,6 +15,6 @@ Kubernestes Pod: Scheduling Unit
 2) Add Microsevice to its spereate container 
 3) Put every container in idadsts own pod
 4) Deploy these pods to container
-5) 
+5)  xxfc
 lppdsadcaas
 pf
