@@ -19,5 +19,7 @@ Kubernestes Pod: Scheduling Unit
 K8's DNS: impy
 Installation:
 1) kubectl
+
+Install Docker 
 2) mINIJUBE
 3) KUBEADM
