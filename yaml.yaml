@@ -1,5 +1,5 @@
 # YAML = YAML AINT MARKUP LANGUAGE
-# DATA FORMAT USED TO EXHCANGE DATA
+# DATA FORMAT USED TO EXHCANGE DATAa
 # Similiar to XML OR JSON
 # Used to store Informationn about configuration, and not commands
 # Convert and Object into YAML is called Serialization.
